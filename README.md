@@ -224,7 +224,7 @@ Este é um projeto acadêmico desenvolvido como trabalho final da disciplina de 
 
 | Nome                   | GitHub                                                     | LinkedIn                                                                                        |
 |------------------------|------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| **[Ubiratã Rodrigues]**  | [@Ubirata-Rodrigues](https://github.com/Ubirata-Rodrigues) | [linkedin.com/in/perfil](https://linkedin.com/in/ubirata-oliveira)                                        |
+| **[Ubiratã Rodrigues]**  | [@Ubirata-Rodrigues](https://github.com/Ubirata-Rodrigues) | [linkedin.com/in/ubirata-oliveira](https://linkedin.com/in/ubirata-oliveira)                                        |
 | **[Paulo G M Santos]** | [@paulogm15](https://github.com/paulogm15)                 | [linkedin.com/in/paulogm](https://www.linkedin.com/in/paulo-gabriel-mendes-dos-santos-a81650106/) |
 
 
